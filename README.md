@@ -1,6 +1,9 @@
 # SARS-CoV-2 Genome Sequence Analysis
 
-Comparative genomic analysis of SARS-CoV-2 reference genome and variant strains using Python and bioinformatics tools.
+## 🎯 Research Question
+
+**How do SARS-CoV-2 variant strains differ genetically from the reference genome?**
+**Objective:** Identify mutations and sequence variations between strains through comparative genomic analysis.
 
 ## 🎯 Project Overview
 
